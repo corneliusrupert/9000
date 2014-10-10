@@ -1,0 +1,38 @@
+{
+  "name": "9000",
+  "version": "1.0.0",
+  "description": "9000 Comparison Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corneliusrupert/9000.git"
+  },
+  "keywords": [
+    "9000",
+    "Engine",
+    "Comparison"
+  ],
+  "author": "Cornelius Rupert <6d756d@gmail.com> (http://corneliusrupert.com/)",
+  "license": "\"BSD-2-Clause\"",
+  "bugs": {
+    "url": "https://github.com/corneliusrupert/9000/issues"
+  },
+  "homepage": "https://github.com/corneliusrupert/9000",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^1.21.4"
+  },
+  "version": "0.1.2",
+  "scripts": {
+    "test": "make test"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ]
+}
